@@ -1,0 +1,194 @@
+{
+ "source": "ሐዲስ-ኪዳን-በልሳነ-ግእዝ.docx; Galatians, 2 Corinthians 12-13 and Ephesians 1-2 from wongeladvocate.com (Ge'ez)",
+ "books": [
+  {
+   "file": "01-matthew.json",
+   "id": "matthew",
+   "name": "Matthew",
+   "chapters": 28,
+   "verses": 1056
+  },
+  {
+   "file": "02-mark.json",
+   "id": "mark",
+   "name": "Mark",
+   "chapters": 16,
+   "verses": 670
+  },
+  {
+   "file": "03-luke.json",
+   "id": "luke",
+   "name": "Luke",
+   "chapters": 24,
+   "verses": 1133
+  },
+  {
+   "file": "04-john.json",
+   "id": "john",
+   "name": "John",
+   "chapters": 21,
+   "verses": 871
+  },
+  {
+   "file": "05-acts.json",
+   "id": "acts",
+   "name": "Acts",
+   "chapters": 28,
+   "verses": 999
+  },
+  {
+   "file": "06-romans.json",
+   "id": "romans",
+   "name": "Romans",
+   "chapters": 16,
+   "verses": 429
+  },
+  {
+   "file": "07-1corinthians.json",
+   "id": "1corinthians",
+   "name": "1 Corinthians",
+   "chapters": 16,
+   "verses": 435
+  },
+  {
+   "file": "08-2corinthians.json",
+   "id": "2corinthians",
+   "name": "2 Corinthians",
+   "chapters": 13,
+   "verses": 251
+  },
+  {
+   "file": "09-galatians.json",
+   "id": "galatians",
+   "name": "Galatians",
+   "chapters": 6,
+   "verses": 149
+  },
+  {
+   "file": "10-ephesians.json",
+   "id": "ephesians",
+   "name": "Ephesians",
+   "chapters": 6,
+   "verses": 154
+  },
+  {
+   "file": "11-philippians.json",
+   "id": "philippians",
+   "name": "Philippians",
+   "chapters": 4,
+   "verses": 104
+  },
+  {
+   "file": "12-colossians.json",
+   "id": "colossians",
+   "name": "Colossians",
+   "chapters": 4,
+   "verses": 92
+  },
+  {
+   "file": "13-1thessalonians.json",
+   "id": "1thessalonians",
+   "name": "1 Thessalonians",
+   "chapters": 5,
+   "verses": 88
+  },
+  {
+   "file": "14-2thessalonians.json",
+   "id": "2thessalonians",
+   "name": "2 Thessalonians",
+   "chapters": 3,
+   "verses": 47
+  },
+  {
+   "file": "15-1timothy.json",
+   "id": "1timothy",
+   "name": "1 Timothy",
+   "chapters": 6,
+   "verses": 112
+  },
+  {
+   "file": "16-2timothy.json",
+   "id": "2timothy",
+   "name": "2 Timothy",
+   "chapters": 4,
+   "verses": 82
+  },
+  {
+   "file": "17-titus.json",
+   "id": "titus",
+   "name": "Titus",
+   "chapters": 3,
+   "verses": 44
+  },
+  {
+   "file": "18-philemon.json",
+   "id": "philemon",
+   "name": "Philemon",
+   "chapters": 1,
+   "verses": 24
+  },
+  {
+   "file": "19-hebrews.json",
+   "id": "hebrews",
+   "name": "Hebrews",
+   "chapters": 13,
+   "verses": 301
+  },
+  {
+   "file": "20-james.json",
+   "id": "james",
+   "name": "James",
+   "chapters": 5,
+   "verses": 107
+  },
+  {
+   "file": "21-1peter.json",
+   "id": "1peter",
+   "name": "1 Peter",
+   "chapters": 5,
+   "verses": 103
+  },
+  {
+   "file": "22-2peter.json",
+   "id": "2peter",
+   "name": "2 Peter",
+   "chapters": 3,
+   "verses": 61
+  },
+  {
+   "file": "23-1john.json",
+   "id": "1john",
+   "name": "1 John",
+   "chapters": 5,
+   "verses": 101
+  },
+  {
+   "file": "24-2john.json",
+   "id": "2john",
+   "name": "2 John",
+   "chapters": 1,
+   "verses": 13
+  },
+  {
+   "file": "25-3john.json",
+   "id": "3john",
+   "name": "3 John",
+   "chapters": 1,
+   "verses": 15
+  },
+  {
+   "file": "26-jude.json",
+   "id": "jude",
+   "name": "Jude",
+   "chapters": 1,
+   "verses": 25
+  },
+  {
+   "file": "27-revelation.json",
+   "id": "revelation",
+   "name": "Revelation",
+   "chapters": 22,
+   "verses": 403
+  }
+ ]
+}

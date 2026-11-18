@@ -1,0 +1,2413 @@
+{
+  "schema": "andimta/1",
+  "meta": {
+    "title": "አንድምታ",
+    "digitizedBy": "Abraham Sisay",
+    "method": "Own OCR from scans of the printed book, proofread by hand",
+    "digitizedOn": "2026-11",
+    "sourceEdition": {
+      "title": "1ኛ ወደ ተሰሎንቄ ሰዎች አንድምታ ትርጓሜ",
+      "publisher": "ትንሣኤ ዘጉባኤ ማተሚያ ቤት",
+      "year": "1988 ዓ.ም.",
+      "pagesScanned": "All"
+    },
+    "proofread": {
+      "status": "verified",
+      "by": "Abraham Sisay",
+      "on": "2026-11"
+    },
+    "rights": "© Abraham Sisay. All rights reserved."
+  },
+  "book": 67,
+  "book_id": "1thessalonians",
+  "book_name": "1ኛ ወደ ተሰሎንቄ ሰዎች",
+  "preface": "መቅድም\nምክንያተ፡ ጽሒፎቱ፡ ለጳውሎስ ሐዋርያ መልዕክተ ቀዳሚት ኀበ ሰብእ ተሰሎንቄ በእንተ፡ መከራ፡ ወምንዳቤ፡ ብዙኀ ዘበጽሐ ላዕለ ምእመናን እምነ አዝማዲሆሙ እለ ኢአምኑ። ሐዋርያው ጳውሎስ ለተሰሎንቄ ሰዎች የመጀመሪያይቱን ክታብ የጻፈበት ምክንያት በምእመናን ላይ ካላመኑ ዘመዶቻቸው ብዙ ፈተና ችግር ስለደረሰባቸው ነው። ተሰሎንቄሰ አሐቲ መክፈልት ይእቲ እመቄዶንያ። ይች ተሰሎንቄም ከመቄዶንያ አንዲት ክፍል ናት። ወይነብሩ ውስቴታ ምስለ አሕዛብ ኅቡረ። በውስጧ ምእመናን ከአሕዛብ ጋራ ይኖሩባት ነበረ። ወሶበ በጽሐ ጳውሎስ ኀቤሆሙ አመ ቀዳሚ፡ ስብከቱ፡ ኢአምኑ እለ ይበዝኁ ዘእንበለ ኀዳጣን ወባሕቱ አጽንዑ ላዕሌሁ ሕማመ ወምንዳቤ ብዙኀ። ጳውሎስ በመጀመሪያ ስብከቱ ወደነሱ በደረሰ ጊዜ ከጥቂቶች በቀር ብዙዎቹ ልዩ ልዩ መከራ አጸኑበት እንጂ አላመኑም ነበረ። ወከማሁ አጽንዑ ምንዳቤ ወመከራ ላዕለ ምእመናን። እንዲሁም በምእመናን ላይ ልዩ ልዩ መከራ አጸኑባቸው። ወአግበርዎሙ ከመ ይስግዱ ለአማልክት ወይሡዑ ሎሙ። ለጣዖት እንዲሰግዱ መሥዋዕት እንዲሠውላቸው ግድ አሏቸው። ወአጽሐብዎሙ ብዙኅ። ብዙም አስጨነቋቸው። ወይበረብሩ ንዋዮሙ ወይሞቅሕዎሙ ወይቀትልዎሙ። ገንዘባቸውን ይዘርፉዋቸው ያስሩዋቸው ይገሏቸው ነበረ። ወበእንተዝ በዝኀ ብካይ፡ ወሰቆቃው ላዕሌሆሙ። ስለዚህ ልቅሶና ኀዘን በዝቶባቸው ነበረ። ወቀብጸ ለለ፩ ተስፋሁ ወፈቀዱ ይግብኡ፡ ድኅሬሆሙ። አንዱም አንዱ ተስፋ ቆርጠው ከወንጌል ወደ ጣዖት ሊመለሱ ወደው ነበረ። ስለዚህ ይህ ሐዋርያ ይህን ክታብ ጻፈላቸው። ወበእንተዝ ጸሐፈ ሎሙ ዝንቱ ሐዋርያ ዘንተ መልእክተ። እንዘ ይብል ወእፈቅድ ታእምሩ አኃዊነ በእንተ እለ ኖሙ፡ ከመ ኢይደሉ ትተከዙ ላዕሌሆሙ ከመ ኵሉ ሰብእ እለ ቅቡጻን ተስፋሆሙ። ወንድሞቻችን ስለሞቱ ሰዎች ተስፋ ትንሣኤ እንደሌ ላቸው ሰዎች ኹሉ አድርጋችሁ ልታዝኑ እንዳይገባ ልታውቁ እወዳለሁ እያለ ጻፈላቸው። ወእምከመሰ ነአምን ከመ ሞተ ክርስቶስ ወተንሥአ ከማሁ ያነሥኦሙ እግዚአብሔር ለምውታን በኢየሱስ ክርስቶስ። ክርስቶስ ከሙታን ተለይቶ እንደተነሣ ካመን እንደዚሁ እግዚአብሔር ምውታንን በኢየሱስ ክርስቶስ በኵርነት ያስነሣቸዋል። ወያመጽኦሙ፡ ምስሌሁ። ከእርሱም ጋራ ያመጣቸዋል። ወዘይተልዎ፡ ለዝንቱ። ከዚህ የሚከተለውን ቃል ጻፈላቸው። ወበዝንቱ፡ ኵሉ ቃሉ ያጸንዖሙ ከመ ኢያንቀልቅሉ ወሜጠ፡ ልቦሙ ኀበ ሃይማኖት። በዚህ ኹሉ ቃሉ እንዳይነዋወጡ እያጸና ልቡናቸውን ወደ ሃይማኖተ ወንጌል መለሰ። ወዓዲ አዘዞሙ ለእለ ያበዝኁ ዝሙተ ወየኀድጉ ብእሲቶሙ ወየሐውሩ ብእሲተ ብእሲ ከመ ይትዐቀቡ ወይርኀቁ እምዘሙት። ወያእምር ኵሉ ለለ፩ ንዋዮ ወያጥርዮ በቅድሳት ወኢይት መንስው በፍትወት ከመ አረሚ። አንዱም አንዱ ሁሉ ዐውቆ አካሉን በንጽሕና ይያዝ እንደ አረሚ በፍትወት ድል አይንሣ እያለ አዘዛቸው። ወጸሐፈ ዘንተ እንዘ ሀሎ በአቴና ወፈነዎ በእደ ቲኪቆስ። በአቴና ሳለ ይህን ጽፎ በቲኪቆስ እጅ ላከው። ዳግሚት የሚል ነውና ቀዳማዊ አለ ተሰሎንቄ በመቄዶንያ ፊልጵስዩስና በአካይያ ቆሮንቶስ መካከል ያለች ሀገር ናት በእፊንጎና በይባባ መካከል ደራ እንዳለ ቅዱስ ጳውሎስ ከዚህ ገብቶ ጌታ ከፅንስ ጀምሮ ያደረገውን ተአምራት ያስተማረውን ትምህርት የሠራውን ትሩፋት ቢነግራቸው እኵሎቹ አመኑ እኵሎቹ አናምንም አሉ። ያላመኑት የሚጣሉት፡ ቢኾን ያመኑት አሸሽተው ቢርያ ወሰደውታል፤ ቢርያ ገብቶ ቢያስተምር የቢርያ ሰዎች ትምህርቱን ተቀብለውታል፣ ወፈድፋደ ይኄይሱ እለ በቢርያ እምእለ በተሰሎንቄ እንዲል። ከዚያስ ማን አሰናብቶታል ብለው ሔደው የሚጣሉት ቢኾን የቢርያ ሰዎች አሸሽተው አቴና ሰደውታል። በአቴና ኾኖ ጢሞቴዎስን ጠይቀሃቸው ና ብሎ ሰዶታል። ቢሔድ ያላመኑት ካመኑት ወገን ብዙ ሰዎች ፈጅተውባቸው የቀቢጸ ተስፋ ኃዘን አዝነው ፍቅር መስሏቸው አንዱ ከአንዱ ሚስት የሚደርሱ ሆነው አግኝቷቸዋል። ሔዶ ይህን ነግሮታል ይህን ሰምቶ ለዚህ ይጽፋል ወያእምር ኵሉ ለለአሐዱ፡ አሐዱ፡ ንዋዮ፡ ወያጥርዮ፡ በቅድሳት፡ ወበክብር፡ ወኢትትመንሰዉ በፍትወት ከመ አረሚ እለ ኢየአምርዎ ለእግዚአብሔር ፡ ይላል፡ ም፡ ፬፡፱፡ ወንፈቅድ ታእምሩ አኃዊነ በእንተ እለ ኖሙ ከመ ኢይደሉ ትተክዙ፡ ላዕሌሆሙ፡ ከመ፡ ኵሉ፡ ሰብአ እለ፡ ቅቡጻን፡ ተስፋሆሙ፡ ይላል፡ ም፡ ፬፥ ፲፫፡ ናስተበቍዓከ አኃዊነ፣ ዑቅዎሙ፡ ለእለ፡ ይጻምዉ፡ በውስቴትክሙ፡ ወለእለ፡ ይቀውሙ፡ ለክሙ፡ በእንተ እግዚእነ፡ ወይሜህሩክሙ፡ ይላል፡ (ም፡ ፭፡፲፪፡) ናስተበቍዓክሙ፡ አኃዊነ፡ ገሥጽዎሙ፡ ለዝሉፋን፡ ናዝዝዎሙ፡ ለኅዙናን፡ ጸርዎሙ፡ ለድኩማን፡ ይላል፡ (፭፡፲፱፡)። አምህለክሙ፡ በእግዚአብሔር፡ ታንብብዋ፡ ለዛቲ፡ መጽሐፍ፡ ላዕለ፡ ኵሉ፡ አኃዊነ ፡ ይላል፡ (ም፡ ፭፡፳፯፡ የተጸፈበት፡ አገር፡ አቴና፡ ክታብ፡ ወሳጅ፡ ጢሞቴዎስና፡ ስልዋኖስ፡ ናቸው።",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "verse_end": 1,
+          "section_title": "ክፍል ፩ ፡ ዘከመ ይደሉ ክዊነ አርአያ ለአኀው ። (ክፍል ፩ ፡ ለወንድሞች አብነት መሆን እንደሚገባ ።)",
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "",
+                "translation": "እምጳውሎስ ወስልዋኖስ ወጢሞቴዎስ (ግብ፡ ሐዋ፡ ፲፯፡ ፲፱፡ ፲፯፡ ፩፡ ፬፡ ፪፡ ተስ፡ ፩፡ (፩)\nከእኔ ከጳውሎስና ከስልዋኖስ ከጢሞቴዎስም የተላከች ክታብ፣ ስልዋኖስ ጢሞቴዎስ በጽሕፈትም በድርሰትም አግዘውት አይደለም ስለ ትሕትና ያነሣቸዋል።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ለቤተ፡ ክርስቲያን፡ ዘተሰሎንቄ፡ በእግዚአብሔር፡ አቡነ፡ ወእግዚእነ፡ ኢየሱስ፡ ክርስቶስ።",
+                "translation": "በእግዚአብሔር አብና በጌታችን በኢየሱስ ክርስቶስም አምነው በተሰሎንቄ ላሉ ምእመናን ትድረስ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ሰላም፡ ለክሙ",
+                "translation": "ቸር አላችሁን።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወጸጋ፡ እግዚአብሔር፡ አቡነ ወእግዚእነ፡ ኢየሱስ፡ ክርስቶስ",
+                "translation": "የእግዚአብሔር አብ የጌታችን የኢየሱስ ክርስቶስም ጸጋው ይደርባችሁ ይደረግላችሁ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 2,
+          "verse_end": 2,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ነአኵቶ፡ ለእግዚአብሔር፡ ዘልፈ፡ በእንቲአክሙ",
+                "translation": "ስለናንተ፡ እግዚአብሔርን፡ ኹል ጊዜ እናመሰግነዋለን።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወንዜከረክሙ፡ ወትረ በጸሎትነ",
+                "translation": "ሁልጊዜ፡ በምንጸልየው፡ ጸሎት፡ ሁልጊዜ፡ እናስባችኋለን፡",
+                "andim": []
+              }
+            ],
+            "hateta": "እንዳለፈው።",
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 3,
+          "verse_end": 3,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወንዜከር፡ በቅድመ፡ እግዚአብሔር፡ አብ፡ ግብረ ሃይማኖትክሙ፡ ወጽንዐ፡ ፍቅርክሙ፡ ወትዕግሥተ ተስፋክሙ በእግዚእነ፡ ኢየሱስ፡ ክርስቶስ፤ ነአኵቶ",
+                "translation": "(ዮሐ፡ ፮፡ ፳፱፡ ፩፡ ቆሮ፡ ፲፫፡ ፲፫ ሠ)። በጌታችን፡ በኢየሱስ፡ ክርስቶስ፡ የሚኾን፡ የአለኝታችሁን፡ ትዕግሥት፡ የፍቅራችሁን፡ ብዛት፡ የሃይማኖታችሁን፡ ጽናት አስበን፡",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 4,
+          "verse_end": 4,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወነኣምር አኃዊነ ፍቁራን ዘከመ ኃረየክሙ እግዚአብሔር",
+                "translation": "(ቈላ፡ ፫፡ ፲፪። )\n(ፍቁራን) እግዚአብሔርን፡ የምትወዱ፤ እግዚአብሔር የሚወዳችሁ፣ እርስ በእርሳችሁ የምትዋደዱ ወንድሞቻችን እግዚአብሔር እንደመረጣችሁ እናውቃለን።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 5,
+          "verse_end": 5,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "እስመ ኢኮነ ትምህርትነ ኀቤክሙ በነገር ባሕቲቱ።",
+                "translation": "እናንተን ማስተማራችን በነገር ማፈቸል ብቻ አይደለምና። ዓዲ በኃይልኒ (፩ ቆሮ፡ ፪፡ ፭) ድውይ በመፈወስ ምውት በማንሣት ጋኔን በማውጣት ነው እንጂ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወበመንፈስ፡ ቅዱስ",
+                "translation": "መንፈስ ቅዱስንም አሳድሮ ቋንቋ በማናገር ምሥጢር በመግለጽ ነው እንጂ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወበስኢል ምእመን።",
+                "translation": "በታመነ መካሰስም ነው እንጂ",
+                "andim": []
+              }
+            ],
+            "hateta": "ሐዋርያት ይህ ይደረግልን ብለው አቅቷቸው የሚቀር የለምና።",
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 6,
+          "verse_end": 6,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወአንትሙሂ ተአምሩ ዘከመ ኮነ በኀቤክሙ በእንቲአክሙ።",
+                "translation": "እኛም ስለናንተ ከናንት ዘንድ የሆነውን ታውቃላችሁ (አለ) መከራ እንደተቀበልን።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወናሁ ኪያኒ ተመሰልክሙ፡ (፩) ቆሮ፡ ፬፡ ፲፮፡",
+                "translation": "እነሆ አሁን አኛን መስላችኋል። ወተወከክ",
+                "andim": []
+              },
+              {
+                "clause_geez": "ፍክሙ ቃለ እግዚአብሔር በብዙኀ ሕማም ምስለ ፍሥሐ መንፈስ ቅዱስ።",
+                "translation": "በመንፈስ ቅዱስ ልጆች ሆናችሁ ከደስታ ጋራ በብዙ መከራ።",
+                "andim": [
+                  "ከመከራ ጋራ በብዙ ደስታ ወንጌልን ተቀብላችኋልና",
+                  "ከልጅነት ጋራ በመከራው ደስ እያላችሁ ወንጌልን ተቀብላችኋልና"
+                ]
+              },
+              {
+                "clause_geez": "ወፅኡ እምዐውደ እንዘ ይትፌሥሑ እስመ ከፈሎሙ ጸጋ መንፈስ ቅዱስ ያኅሥርዎሙ በእንተ ስሙ",
+                "translation": "እንዲል ግብ (ሐዋ፡ ፭፡ ፵፩፡)። በዐደባባይ ገርፈው ገርፈው ሲያወጧቸው እንደተሾሙ እንደተሸለሙ ደስ ይላቸዋልና።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 7,
+          "verse_end": 7,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወኮንክምዎሙ አርአያ ለእለ አምኑ ኵሎሙ እለ በመቄዶንያ ወአካይያ (ም፡ ፬፡ ፻፡)።",
+                "translation": "በአካይያ ቆሮንቶስና በመቄዶንያ ፊልጵስዮስ ካሉ ምእመናን አብነት ሆናችኋቸዋል።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 8,
+          "verse_end": 8,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "እስመ እምኀቤከ ተምህሩ፤ ቃለ እግዚእነ ወሰምዑ።",
+                "translation": "ወንጌልን ከእናንተ ተምረው አምነዋልና።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወአኮ በመቄዶንያ ወአካይያ ባሕቲቱ።",
+                "translation": "አብነትነታችሁም በአካይያ ቆሮንቶስና በመቄዶንያ ፊልጵስዩስ ላሉ ብቻ አይደለም።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ዓዲ በኵሉ በሐውርት ተሰምዐት ሃይማኖትክሙ በእግዚአብሔር",
+                "translation": "(ሮሜ፡ ፩፡ ፰)። በእግዚአብሔር ማመናችሁ በአራቱ ማዕዘን ተሰምታለች እንጂ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወኢንፈቅድ ንሕነ ምንተኒ ንንግር በእንቲአክሙ።",
+                "translation": "እኛ ምንም ምን የእናንተን ነገር ልንናገር አንሻም።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 9,
+          "verse_end": 9,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ለሊሆሙ የአምሩ በከመ ቦእነ ኀቤክሙ",
+                "translation": "ወደእናንተ በመምህርነት እንደመጣን ራሳቸው ያውቃ ሉና።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወዘከመ ተመየጥክሙ ኀበ እግዚአብሔር እምአምልኮ ጣኦት፡ ፩ቆሮ፡ ፲፪፡ ፪።",
+                "translation": "በእኛ ትምህርት ከአምልኮ ጣኦት ወደ አምልኮተ እግዚአብሔር እንደተመለሳችሁ ያውቃሉና።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ከመ ትትቀነዩ ለአምላክ ሕያው።",
+                "translation": "ለምውቱ ትታችሁ ለሕያው።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወጻድቅ።",
+                "translation": "ለሐሰተኛው ትታችሁ ለእውነተኛው አምላክ ትገዙ ዘንድ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 10,
+          "verse_end": 10,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "እንዘ ትሴፈውዎ ለወልዱ እምሰማያት ዘተንሥአ እሙታን ኢየሱስ ክርስቶስ። (ግብ፡ ሐዋ፡ ፩ ፲፩፡ ፊል፡ ፫ ፳፡ ቲቶ፡ ፪፡ ፲፫)።",
+                "translation": "ከሙታን ተለይቶ የተነሣ የባሕርይ ልጁ ኢየሱስ ክርስቶስን ከወደ ሰማይ ይመጣል ብላችሁ ተስፋ አድርጋችሁ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወውእቱ ያድኅነነ እመንሡት ዘይመጽእ።",
+                "translation": "ከሚመጣው መከራ ያድነናል ብላችሁ",
+                "andim": []
+              },
+              {
+                "clause_geez": "ዘተንሥእ ወያድኅነነ",
+                "translation": "ብለህ ግጠም።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "verse_end": 1,
+          "section_title": "ክፍል ፪ ፡ በእንተ ምሂር በተየውሆ ። (ክፍል ፪ ፡ በየዋህነት ሆኖ ስለ ማስተማር ።)",
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ለሊክሙ ተአምሩ አኃዊነ ዘከመ ገበርነ ለክሙ።",
+                "translation": "ወንድሞቻችን እኛ ለእናንተ ያደረግነውን ነገር ራሳችሁ ታውቃላችሁ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወኢኮነ በከንቱ በዊኦትነ ኀቤክሙ (ም፡ ፩፡ ፭፡ ፱)",
+                "translation": "እናንተን ማስተማራችን መከራ ባለመቀበል አይደለምና።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 2,
+          "verse_end": 2,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ዳዕሙ ሐመምነ።",
+                "translation": "መከራ እየተቀበልን ነው እንጂ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወተጽዕልነ።",
+                "translation": "እየተዋረድን ነው እንጂ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "",
+                "translation": "ዘከመ፡ ተአምሩ፡ በፊልጵስዩስ፡ (ግብ፡ ሐሞ፡ ፲፮፡ ፳፪ና፡ ፲፯፡ ፭) በፊልጵስዩስ የተቀበልነውን እንደምታውቁ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወአሜሃ ነገርናክሙ በብዙኅ ጻማ ትምህርተ ክርስቶስ።",
+                "translation": "ያንጊዜ በብዙ ጻር የክርስቶስ ትምህርት ወንጌልን ነግረናችሁ። እንደነገርናችሁ ተአምሩ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "በሞገሱ ለአምላክነ",
+                "translation": "በፈጣሪያችን አጋዥነት።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 3,
+          "verse_end": 3,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "እስመ፡ ኢኮነ ትምህርትነ ዘስሒት።",
+                "translation": "ኦሪትን የምናስተምር አይደለንምና",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወኢዘርኵስ።",
+                "translation": "ኃጢአት የምትሆን ኦሪትን የምናስተምር አይደለምና።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወኢኮነ ዘጽልሑት።",
+                "translation": "ክዳት ሽንገላ የምትሆን ኦሪትን።",
+                "andim": []
+              }
+            ],
+            "hateta": "«ስሒት» አላት። ኦሪትን ከስሕተት በኋላ ስለተሠራች ሕግ ተስፋ አይደለችምና ቢጽ ሓሳዊ እየገባ ያስትባታልና።",
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 4,
+          "verse_end": 4,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ዳዕሙ፡ በዘአመከረነ እግዚአብሔር።",
+                "translation": "እግዚአብሔር በመረመረን ገንዘብ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወተአመነነ በትምህርተ ወንጌሉ (፩፡ ጢሞ፡ ፩፡ ፲፩)።",
+                "translation": "ወንጌልን ለማስተማር ትበቃላችሁ ባለን ገንዘብ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ከማሁ ንነግር።",
+                "translation": "ወንጌልን እናስተምራለን እንጂ (ከማሁ)",
+                "andim": []
+              },
+              {
+                "clause_geez": "አሜሃ ነገርናክሙ በብዙኅ ጻማ ትምህርተ ክርስቶስ",
+                "translation": "ብዬ እንደተናገርኩ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወአኮ ከመ ዘለሰብእ ያደሉ።",
+                "translation": "ማስተማራችንም ሰውን ደስ ለማሰኘት አይደለም ሰውን ደስ እንደሚያስኝ አይደለም።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ልበነ። (ገላት፡ ፩ ፩፡። )",
+                "translation": "ልቦናችንን መርም ሮ የሚያውቅ እግዚአብሔርን ደስ ለማሰኘት ነው እንጂ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 5,
+          "verse_end": 5,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወእምአመ ኮነ ኢየዋህናክሙ በቃል በከመ ተአምሩ።",
+                "translation": "ከሆነ ጀምሮ እንደምታውቁት መከራ የለባችሁም ብለንም በቃል አላለዘብናችሁም።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወኢተዐገልናክሙ በምክንያት።",
+                "translation": "አስተምረናል ብለንም በምክንያት ከብታችሁን አልቀማናችሁም።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ስምዕነ እግዚአብሔር በዝንቱ።",
+                "translation": "በዚህም ምስከራችን እሱ እግዚአብሔር ነው። ፮",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 6,
+          "verse_end": 6,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወኢንፈቅድ ያድሉ ለነ ሰብእ፡ (ዮሐ፡ ፭፡ ፵፩፡ ፵፬። )",
+                "translation": "እኛስ ሰው ደስ ሊያስኘን አንሻም።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ኢአንትሙ።",
+                "translation": "እናንተም ሆኖ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወኢባዕድ።",
+                "translation": "ሌላም ሆኖ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "እንዘ ንክል አክብዶ ከመ ሐዋርያተ ክርስቶስ፡ (ግብ፡ ሐዋ፡ ፴፫)",
+                "translation": "ከርስቶስ የሾመን ሐዋርያት እንደመ ሆናችን",
+                "andim": [
+                  "ክርስቶስ እንደሾማቸው እንደ ሐዋርያት አስተምሮ ዋጋ መብላት ሲገባን"
+                ]
+              },
+              {
+                "clause_geez": "ኢተዐገልናክሙ",
+                "translation": "ላለው።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 7,
+          "verse_end": 7,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ዳዕሙ ኮነ ከመ ሕፃናት ማእከሌክሙ።",
+                "translation": "አበባውን አሳይቶ ግምጃውን ሎሚውን አሳይቶ ወርቁን እንዲወስዱበት ዋጋ ያለመብላትን አሳይተን በትምህርተ በሃይማኖት ገንዘብ አደረግናችሁ እንጂ። በእናንተ ዘንድ እንደ ሕፃናት ሆን። (እለ) ሕፃን አበባውን አሳይቶ ግምጃውን ሎሚውን አሳይቶ ወርቁን ቢወስዱበት ዋጋ ያለመብላትን አሳይተን በትምህርት በሃይማኖት ገንዘብ አደረግናቹ እንጂ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወከመ ሐፃኒት፡ እንተ ተሐዝል፡ ደቂቃ።",
+                "translation": "ልጆቿን እንደምታሳድግ ሞግዚት ሆነ እንጂ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 8,
+          "verse_end": 8,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ከማሁ ንሕነኒ ናፈቅረክሙ።",
+                "translation": "ልጆቿን እንድትወድ እኛም እንወዳችኋለን።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወንጽሕቅ ለክሙ ከመ ንመጡክሙ።",
+                "translation": "ያች በወተት በፍትፍት እንድታሳድግ እኛም ወንጌልን እናስተምራችኋለን።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወአኮ ባሕቲቶ ወንጌለ እግዚአብሔር።",
+                "translation": "ወንጌልን አስተምረናችሁ ብቻ የምንቀር አይደለም።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ዓዲ ነፍሰነሂ።",
+                "translation": "ሰውነታችንንም ለመከራው አሳልፈን እንሰጣለን እንጂ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "እስመ ፍቁራነ ኮንክሙነ።",
+                "translation": "በሃይማኖት መስላችሁናልና።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 9,
+          "verse_end": 9,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወተዘከሩ አኃዊነ ጻማነ ወሥራሐነ መዓልተ ወሌሊተ ኮነ ንትጌበር (፩ ቆሮ፡ ፱ ፲፪)",
+                "translation": "በመዓልትም በሌሊትም ተግባረ እድ ይሆን የደከምነውን ድካም አስቡት (ሌት፡ በስፌት ቀን፡ በትምህርት)።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ከመ ኢናከብድ ላዕለ አሐዱሂ እምውስቴትክሙ።",
+                "translation": "ከእናንተ አንዱንስ እንኳ እንዳናስቸግር ከእናንተ ባንዱስ እንኳ ሥርዓት እንዳናጸና።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 10,
+          "verse_end": 10,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወለሊክሙ ሰማዕትነ።",
+                "translation": "እናንተ ቅሉ ምስክሮቻችን ናችሁ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወእግዚአብሔር።",
+                "translation": "እግዚአብሔርም ምስክራችን ነው።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ዘከመ ሰበክነ ለክሙ ትምህርተ ወንጌሉ ለእግዚአብሔር በጽድቅ ወበርትዕ ወበንጽሕ በኀበ ኵሎሙ እለ የአምኑ። ፩፡ ጢ ሞ፡ ፫፡ ፲፪",
+                "translation": "የእግዚአብሔር ትምህርት ወንጌልን በጽድቅ በርትዕ በንጽሕ እንዳስተማርናችሁ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "በጸጋ ዘነሣእክሙ በጸጋ ሀቡ፣ በከንቱ ዘነሣእክሙ በከንቱ ሀቡ",
+                "translation": "ባለው እንዳስተማርናችሁ። በሚያምኑ በምእመናን ዘንድ ምስክሮቻችን ናችሁ እግዚአብሔርም ምስክራችን ነው።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 11,
+          "verse_end": 11,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ዘከመ ተአምሩ ለለአሐዱ አሐዱ እምውስቴትክሙ",
+                "translation": "ከእናንተ አንዱም አንዱም እንደምታውቁ ምስከሮቻችን ናችሁ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ከመ አብ ለወልዱ ናስተበቍዓክሙ።",
+                "translation": "አባት ልጁን ልጄ እንዲህ ብታደርግ ይሻል ይመስለኛል ብሎ እንዲያለዝብ እናለዝባችኋለን።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 12,
+          "verse_end": 12,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወንናዝዘክሙ።",
+                "translation": "አባት ልጁን እንዲያጽናናው እናጽናናችኋለን።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወናሰምዕ፡ ለክሙ።",
+                "translation": "እናዳኝባችኋለን።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ከመ፡ ትሑሩ፡ ወትሩጹ፡ በዘይደልወክሙ፡ ለኀበ፡ እግዚአብሔር፡ ዘጸውዐክሙ፡ ውስተ፡ መንግሥተ፡ ስብሐቲሁ፡ (ኤፌ፡ ፰፡ ፩፡ ፊል፡ ፩ - ፳፯)",
+                "translation": "ወደ እግዚአብሔር ለመሔድ በሚገባ ትኖሩ ዘንድ",
+                "andim": [
+                  "ወደ እግዚአብሔር በሚገባ ትሔዱ ዘንድ በጌትነት ወደ ሠራት ወደ ወንጌል የጠራችሁ።",
+                  "በጌትነት ወደሚያወርሳት ወደ መንግሥተ ሰማያት ወደ ጠራችሁ ወደ እግዚአብሔር ለመሔድ፡"
+                ]
+              },
+              {
+                "clause_geez": "",
+                "translation": "ክፍል፡ ፪፡",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 13,
+          "verse_end": 13,
+          "section_title": "ክፍል ፫ ፡ በእንተ ተወክፎተ ቃል ዘእግዚአብሔር ። (ክፍል ፫ ፡ የእግዚአብሔርን ቃል ስለ መቀበል ።)",
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "በእንተዝ ንሕነሂ ዘልፈ ነአኵቶ ለእግዚአብሔር።",
+                "translation": "ስለዚህም እኛ ሁልጊዜ እግዚአብሔርን እናመሰግነዋለን።",
+                "andim": []
+              },
+              {
+                "clause_geez": "እስመ ተወከፍክሙ ቃለ ትእዛዙ ለእግዚአብሔር ወአኮ ቃለ ዜና ሰብእ።",
+                "translation": "ዜና ሰብእ ኦሪትን ያይደለ",
+                "andim": []
+              },
+              {
+                "clause_geez": "አንሰ እብለክሙ",
+                "translation": "ብሎ የሠራት ወንጌልን ተቀብላችኋልና። ዜና ሰብእ አላት ኦሪትን በሙሴ በኢያሱ አድሮ ሠርቷታልና።",
+                "andim": []
+              },
+              {
+                "clause_geez": "አላ አማን ከማሁ ቃለ እግዚአብሔር። (ከማሁ) ተወከፍክሙ ቃለ ትእዛዙ ለእግዚአብሔር",
+                "translation": "እንዳልሁ ወንጌልን ተቀብላችኋል እንጂ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወይረድአክሙሂ በገቢር ለእለ ተአመንክሙ (ም፡ ፩፡ ፭፡ ገላት፡ ፩፡ ፲፩)",
+                "translation": "ሥራ በመሥራትም ጊዜ ያመናችሁበት እናንተን ያጸናችኋል።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 14,
+          "verse_end": 14,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወአንትሙ አኃዊነ ተመሰልክሙ በቤተ ክርስቲያኑ ለእግዚአብሔር እለ በይሁዳ ምእመናን በኢየሱስ ክርስቶስ",
+                "translation": "ወንድሞቻችን እናንተም በኢየሱስ ክርስቶስ አምነው በብሔረ ይሁዳ ያሉ ምእመናንን መስላችኋቸዋል።",
+                "andim": []
+              },
+              {
+                "clause_geez": "እስመ ሐመምክሙ አንትሙሂ እምሕዝብክሙ በከመ ሐሙ እሙንቱሂ እም አይሁድ እለ ቀተልዎ ለእግዚእነ ኢየሱስ ክርስቶስ፡ (ግብ ሐዋ፡ ፪፡ ፳፪፡ ፲፫፡ ፴፫)",
+                "translation": "እነሱ ጌታችን ኢየሱስ ክርስቶስን ሰቅለው ከገደሉት ከአይሁድ መከራ እንደተቀበሉ እናንተም ከወገኖቻችሁ መከራ ተቀብላችኋልና።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 15,
+          "verse_end": 15,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወለነቢያትሂ እለ እምውስቴቶሙ ሰደድዎሙ።",
+                "translation": "ከእነሱ ወገን የሚኾኑ ነቢያትን ሀገር አስጥለው ይሰዷቸው ከነበረ ከወገኖቻቸው ከአይሁድ መከራ እንደተቀበሉ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወኪያነሂ",
+                "translation": "እኛንም ከዋልንበት አናሳድር ከአደርንበት አናውል ከሚሉ ከወገኖቻቸው ከአይሁድ መከራ እንደተቀበሉ እናንተም ከወገኖቻችሁ መከራ ተቀብላችኋልና።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ተመስልክሙ ኪያነ",
+                "translation": "እኛንም መስላችኋል።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወኢያሠምርዎ ለእግዚአብሔር።",
+                "translation": "እግዚአብሔርን ደስ ከማያሰኙ ከአይሁድ መከራ እንደተቀበሉ",
+                "andim": [
+                  "እግዚአብሔርን ደስ ከማያሰኙ ከወገኖቻችሁ መከራ ተቀብላችኋል።"
+                ]
+              },
+              {
+                "clause_geez": "ወይትቃረኑ ምስለ ኵሎ ሰብእ።",
+                "translation": "ከሰው ሁሉ ጋራ ከሚጣሉ ከሚከራከሩ ከአይሁድ መከራ እንደተቀበሉ።",
+                "andim": [
+                  "ከሰው ሁሉ ጋራ ከሚጣሉ ከሚከራከሩ ከወገኖቻችሁ መከራ ተቀብላችኋልና።"
+                ]
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 16,
+          "verse_end": 16,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወይከልኡነ ኢንንግር ለአሕዛብ በዘየሐይዉ (ማቴ፡ ፳፫፡ ፴፪፡ ፴፫)",
+                "translation": "በሚያምኑ በሚድኑ ገንዘብ ለኦሕዛብ እንዳናስተምር ከሚከለከሉብን ከአይሁድ መከራ እንደተቀበሉ",
+                "andim": [
+                  "በሚያምኑ ለሚድኑ ገንዘብ ለአሕዛብ እንዳናስተምር ከሚከለከሉብን ከወገኖቻችሁ መከራ ተቀብላችኋልና።"
+                ]
+              },
+              {
+                "clause_geez": "ከመ ይትፈጸሞሙ ኃጢአቶሙ ለዝሉፉ",
+                "translation": "ኃጢአታቸው በፍዳ ይፈጸምባቸው ዘንድ «እጸንሖ ለአሞራዎን እስከ ኃጢአቱ» እንዲል።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወናሁ በጽሖሙ መቅሠፍቶሙ ዘለዓለም።",
+                "translation": "እነሆ ፍዳቸውም የማያልፍ ጽኑ ሥቃይ ተፈርዶባቸዋል።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 17,
+          "verse_end": 17,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወንሕነሰ አኃዊነ ከመ ዕጓለ ማውታ ኮነ እምኔክሙ በዝ መዋዕል ለገጽ ዳዕሙ፡ (ሮሜ፡ ፩፥፲፩)",
+                "translation": "እኛ ግን ወንድሞቻችን በዚህ ወራት ከእናንተ የተነሣ ከእናንተ ተለይተን እንደ ድኀ አደግ ሆን።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወአኮሰ እምልብ",
+                "translation": "እንዲህም ማለታችን ፊታችሁን ከማየት ነው እንጂ ከልቡናችን ተለይታችሁ አይደለም።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወፈድፋደ ጽሕቅነ ንርአይ ገጸክሙ።",
+                "translation": "ይልቁንም ፊታችሁን ልናይ እንወዳለን።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 18,
+          "verse_end": 18,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "",
+                "translation": "ወብዙኀ ፈቀድኩ እምጻእ ኀቤክሙ ለልየ ጳውሎስ። ከወደድህ ማን ከለከለህ ትለኝ እንደ ሆነ ብዙ ጊዜ እኔ ጳውሎስ ወደናንተ ልመጣ ወደድሁ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ምዕረ ወካዕበ",
+                "translation": "ብዙኀ ያለውን",
+                "andim": []
+              },
+              {
+                "clause_geez": "ምዕረ ወካዕበ።",
+                "translation": "አንድ ጊዜ ሁለት ጊዜ ልመጣ ወደድሁ",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወአዕቀፈኒ",
+                "translation": "ማንሻ ነው።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወአዕቀፈኒ ሰይጣን",
+                "translation": "አንድም ብዙ ጊዜ ወደናንተ ልመጣ ወደድሁ አንድ ጊዜ ሁለት ጊዜ ሰይጣን አሰነካከለኝ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "መኑ ተስፋነ",
+                "translation": "(ፊልጵ፡ ፪፡ ፲፯፣ ፭ ፲ ፬፡ ፩)\nእኛ አንተን ብናይ እንጂ እኛን ማየት ላንተ ምን ይረባሃል ምን ይጠቅምሃል ትሉኝ እንደሆነ አለኝታችን ማነው።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 19,
+          "verse_end": 19,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወፍሥሓነ።",
+                "translation": "ደስታችን ማነው።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወአክሊለ ምክሕነ",
+                "translation": "የመመኪያችን ክብር ማነው።",
+                "andim": []
+              },
+              {
+                "clause_geez": "አኮኑ አንትሙ በቅድመ እግዚእነ ኢየሱስ ክርስቶስ።",
+                "translation": "በምጽአቱ ጌታችን ኢየሱስ ክርስቶስ በመጣ ጊዜ በፊቱ መመኪያችን እናንተ አይደላችሁምን። ፳",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 20,
+          "verse_end": 20,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "እስመ አንትሙ ክብርነ ወፍሥሓነ\n(ክብርነ ወፍሥሓነ በምጽአቱ)",
+                "translation": "ጌታችን በመጣ ደስታችን ክብራችን ደስታችን ናችሁና።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "verse_end": 1,
+          "section_title": "ክፍል ፬ ፡ ዘከመ ኢይደሉ ቀቢጸ ተስፋ ። (ክፍል ፬ ፡ ተስፋ መቁረጥ ስለማይገባ ።)",
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወስኢነነ ተዐግሦ አብደርነ ንንበር አቴና አሐተኔ ባሕቲተነ። (ግብ ሐዋ፡ ፲፯፡ ፲፬፥ ፲፭። )",
+                "translation": "ነገር ግን መከራውን መታገሥ ቢሣነን ለብቻችን አንድ ወገን ሁነን በአቴና መኖርን ወደድን",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወፈነውናሁ",
+                "translation": "ማንሻ ነው።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 2,
+          "verse_end": 2,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወፈነውናሁ ለጢሞቴዎስ እኁነ ላእከ እግዚአብሔር።",
+                "translation": "እናንተ ደስታችን ክብራችን ናችሁና ስለሆናችሁ ብቻችንን ለብቻችን አንድ ወገን ሆነን አቴና መኖርን ወደን ዝም ማለት ቢሳነን\n(ፈነውናሁ) የእግዚአብሔር የሚሆን ወንድማችን ጢሞቴዎስን ሰደድነው።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወረድኤትነ፡ በትምህርተ፡ ክርስቶስ።",
+                "translation": "የክርስቶስ ወንጌልን በማስተማር አጋዣችን የሚሆን።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ከመ፡ ያጽንዕክሙ።",
+                "translation": "በሃይማኖት ያጸናችሁ ዘንድ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወያስተብቍዕክሙ።",
+                "translation": "ይመክራችሁ ያስተምራችሁ ዘንድ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "በእንተ ሃይማኖትክሙ።",
+                "translation": "ስለ ሃይማኖታችሁ ያጸናችሁ ዘንድ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 3,
+          "verse_end": 3,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ከመ ኢታንቅልቅሉ።",
+                "translation": "እንዳትነዋወጡ በሃይማኖት ያጸናችሁ ዘንድ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወኢይቅብጽ፡ አሐዱሂ፡ እምውስቴትክሙ በዛቲ፡ ሕማምክሙ፡ (ኤፌ፡ ፫፡ ፲፫፡ ፱፡ ፪፡ ጢሞ፡ ፫፡ ፲፪። )",
+                "translation": "በዚች በመከራችሁ ከእናንተ አንዱስ እንኳ የቀቢጸ ተስፋ ኃዘን እንዳያዝን ያስተብቍዕክሙ",
+                "andim": []
+              },
+              {
+                "clause_geez": "ተአምሩ፡ ለሊክሙ፡ ከመ፡ ዝንቱ፡ ዳዕሙ፡ ይጸንሐነ።",
+                "translation": "በሔድንበት ይህ ብቻ እንዲቆየን ታውቃላችሁ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 4,
+          "verse_end": 4,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወአመ፡ ሀሎኩ፡ ኀቤክሙ፡ ዘንተ፡ ከመ፡ አቅደምኩ፡ ወነገርኩክሙ።",
+                "translation": "ከእናንተ ዘንድ በነበርኩ ጊዜ አስቀድሜ ይህን ነግሬያችሁ እንደነበረ ታውቃላችሁ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ከመ፡ ሀለወነ፡ ንሕምም።",
+                "translation": "መከራ እንቀበል ዘንድ እንዳለን።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወይሣቅዩነ።",
+                "translation": "ሥቃይ ያጸኑብን ዘንድ እንዳለን ነግሬያችሁ ነበር።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወበከመ፡ አመርናክሙ፡ ኮነ፡ ውእቱ፡",
+                "translation": "እንደነገርናችሁ ያው የነገርናችሁ ሆነ",
+                "andim": [
+                  "በእኛ አንደነገርናችሁ በእኛ የነገርናችሁ በእናንተ ሆነ።"
+                ]
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 5,
+          "verse_end": 5,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወበእንተዝ · አነሂ፡ ስኢንየ፡ ተዐግሦ፡ ፈነውኩ፡ ጢሞቴዎስሃ።",
+                "translation": "ስለዚህ መከራውን መታገሥ ቢሳነኝ",
+                "andim": [
+                  "ዝም ማለት ቢሳነኝ ወደእናንተ ጢሞቴዎስን ሰደድሁ።"
+                ]
+              },
+              {
+                "clause_geez": "ከመ፡ አእምር፡ ሃይማኖተክሙ።",
+                "translation": "የሃይማኖታችሁን ጽናት ዐውቅ ዘንድ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "እመቦ፡ ከመ፡ አመከረክሙ፡ ዘያሜክር።",
+                "translation": "የሚፈታተን ቢጽ ሐሳዊ ተፈታትኗችሁ እንደሆነ ብዬ የተፈታተናችሁ መፈታተን እንዳለ ብዬ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወለከንቱ፡ ይከውን፡ ጻማነ፡ ዘበእንቲአክሙ። (ፊል፡ ፪ ፳፮። )",
+                "translation": "እንዲህ የሆነ እንደሆነ ስለእናንተ የደከምነው ድካም ዋጋ ላለመቀበል ይሆናል ብዬ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 6,
+          "verse_end": 6,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወይእዜሰ፡ እምአመ፡ በጽሐ፡ ጢሞቴዎስ፡ ኀቤነ እምኀቤክሙ (ግብ፡ ሐዋ ፲ ፲፰ ፲ ፭ »)",
+                "translation": "ዛሬ ግን ጢሞቴዎስ ከእናንተ ዘንድ ደርሶ ወደእኛ ከመጣ፡ ጀምሮ ከመጣ ወዲህ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወዜነወነ፡ ሃይማኖተክሙ ወተፋቅሮተክሙ።",
+                "translation": "የሃይማኖታችሁን ጽናት የፍቅራችሁን ብዛት ከነገረን ጀምሮ ከነገረን ወዲህ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወከመሂ፡ ትዜከሩነ፡ በሠናይ ዘልፈ።",
+                "translation": "ሁልጊዜ በበጎ ነገር እንድታስቡን ከነገርን ጀምሮ ከነገረን ወዲህ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወትፈትዉ፡ ትርአዩነ፡ ዘከመ፡ ንፈቱ፡ ንሕነሂ ርእዮተክሙ",
+                "translation": "እኛ እናንተን ልናያችሁ እንድንወድ እናንተም እኛን ልታዩን እንድትወዱ ከነገረን ጀምሮ ከነገረን ወዲህ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 7,
+          "verse_end": 7,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "በእንተዝ ተፈሣሕነ፡ ኢኃዊነ በእንተ ኵሉ፡ ሕማምነ፡ ወምንዳቤነ፡ ዘበእንተ፡ ሃይማኖትክሙ (ም፡ ፪፡ ፪)",
+                "translation": "ስለዚህ ስለ ሃይማኖታችሁ በሚሆን በመከራችን በጸዋትወ መከራችን ደስ አለን።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 8,
+          "verse_end": 8,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "እስመ፡ ይእዜ፡ ነሐዩ፡ እምከመ፡ አንትሙ፡ ቆምክሙ፡ በእግዚእነ።",
+                "translation": "እናንተ በጌታችን በማመን ብትጸኑ ደስ ብሎናልና።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወሐይወ፡ ልቡ፡ ለያዕቆብ፡",
+                "translation": "እንዲል፡ (ዘፍጥ፡ ፵፭፡ ፳፯)።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 9,
+          "verse_end": 9,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "",
+                "translation": "አየ፡ አኰቴተ ማንሻ፡ አየ፡ አኰቴተ ንክል፡ ዐሥዮቶ፡ ለእግዚአብሔር፡ ህየንተ፡ ኵሉ፡ ፍሥሓነ፡ ዘተፈሣሕነ፡ በእንቲአክሙ። በጌታችን በማመን ብትጸኑ ደስ ብሎናልና። ስለዚህ በእናንተ ደስ ስላለን ደስታ ለእግዚአብሔር ምን ያህል ምስጋና ልናቀርብለት ይገባናል።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ምንተኑ፡ አዐሥዮ፡ ለእግዚአብሔር፡ በእንተ፡ ኵሉ፡ ዘገብረ ሊተ",
+                "translation": "ካለው ጋራ አንድ ነው።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ዘእንበለ፡ ከመ፡ ንጼሊ፡ ኀበ፡ ኣምላክነ፡ መዓልተ፡ ወሌሊተ።",
+                "translation": "በመዓልትም በሌሊትም ወደፈጣሪያችን እንጸልያለን እንጂ ከመጸለይ በቀር",
+                "andim": []
+              },
+              {
+                "clause_geez": "ጽዋዐ፡ ሕይወት፡ እትሜ ጦ፡ ወስመ፡ እግዚአብሔር፡ እጼውዕ፡",
+                "translation": "ካለው ጋራ አንድ ነው።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 10,
+          "verse_end": 10,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወፈድፋደሰ፡ ንጼሊ፡ ከመ፡ ንርእይ፡ ገጸክሙ።",
+                "translation": "ይልቁንም ፊታችሁን እናይ ዘንድ እንጸልያለን።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወይትፈጸም፡ ሕጸጸ ሃይማኖትክሙ።",
+                "translation": "የሃይማኖታችሁ ሕጸጽ ይፈጸም ዘንድ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 11,
+          "verse_end": 11,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወእግዚአብሔር አቡነ፡ ወእግዚእነ፡ ኢየሱስ፡ ክርስቶስ፡ ያርትዕ፡ ፍኖተነ፡ ኀቤክሙ።",
+                "translation": "የጌታችን የኢየሱስ ክርስቶስ የባሕርይ አባቱ እግዚአብሔር ወደእናንተ መንገዳችንን ይቅናልን ያቀናልን ዘንድ ንጼሊ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 12,
+          "verse_end": 12,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወለክሙሂ፡ ያብዝኅ፡ ወያፈድፍድ፡ ተፋቅሮተክሙ፡ በበይናቲክሙ፡",
+                "translation": "እርስ በርሳችሁ በፍቅር ፍጹማን ያድርጋችሁ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወምስለ፡ ኵሉ፡ ለለ፡ አሐዱ።",
+                "translation": "በበይናቲክሙ ብሎ ነበርና ከእያንዳንዱ ሁሉ ጋራ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ከመ፡ ንሕነ፡ ናፈቅረክሙ፡ ለክሙ።",
+                "translation": "እኛ እናንተን እንደምንወዳችሁ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 13,
+          "verse_end": 13,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወይጽናዕ ልብክሙ፡ በንጽሕ፡ ወበቅድሳት። (፪ተሰ፡ ፪፡ ፲፯። ፊል፡ ፩፡ ፲)",
+                "translation": "ልቡናችሁ በንጽሕና በቅድስና ጸንቶ ይኖር ዘንድ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ለቅድመ፡ እግዚአብሔር፡ አቡነ፡ እመ፡ ምጽአተ እግዚእነ፡ ኢየሱስ፡ ክርስቶስ፡ ምስለ፡ ኵሎሙ፡ ቅዱሳን፡",
+                "translation": "ጌታችን ኢየሱስ ክርስቶስ መላእክትን አስከትሎ በመጣ ጊዜ፡ (በቅድሜሁ) ለባለሟሎች ለመኾን (በቅድሜሁ) በፊቱ ለመቆም።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "verse_end": 1,
+          "section_title": "ክፍል ፭ ፡ በእንተ ርሒቅ እምዘዚአሁ ፈቃደ ሥጋ ። (ክፍል ፭ ፡ ከልዩ ልዩ ፈቃደ ሥጋ ስለ መራቅ ።)",
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "",
+                "translation": "ክፍል፡ ፫",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወይእዜኒ፡ አኃዊነ፡ ንነግረክሙ።",
+                "translation": "አሁንም ወንድሞቻችን እንነግራችኋለን።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወናስተበቍዐክሙ፡ በእግዚእነ፡ ኢየሱስ፡ ክርስቶስ፡ (፪፡ ተዕ ፫፡ ፲፪)።",
+                "translation": "ጌታችን ኢየሱስ ክርስቶስን ማላጅ አድርገን እንማልዳችኋለን።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ከመ፡ ተአዘዝክሙ፡ በኀቤነ፡ በዘይደሉ፡ ከመ፡ ትሁሩ፡ (ኤፌ፡ ፩፡ ፩። )",
+                "translation": "ከእኛ እንደተማራችሁ በሚገባ ትኖሩ ዘንድ፡",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወታሥምርዎ፡ ለእግዚአብሔር።",
+                "translation": "እግዚአብሔርን ደስ ታሰኙት ዘንድ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወበከመ፡ ሖርክሙ፡ ዓዲ፡ ከመ፡ ታብዝኁ፡ ወታፈድፍዱ በዝንቱ።",
+                "translation": "ከዚህ ቀድሞ ትሠሩት እንደነበረ ከእንግዲህም ወዲህ ይህን አብዝታችሁ ትሠሩት ዘንድ እንማልዳችኋለን።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 2,
+          "verse_end": 2,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወተአምሩ፡ ዘከመ፡ አዘዝናክሙ፡ በእግዚእነ፡ ኢየሱስ።",
+                "translation": "ከጌታችን ከኢየሱስ ክርስቶስ ታዝዘን ጌታችን ኢየሱስ ክርስቶስ አዝዟችኋል ብለን እንደ ነገርናችሁ ታውቃላችሁ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 3,
+          "verse_end": 3,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "እስመ፡ ዝ ውእቱ፡ ትእዛዙ፡ ለእግዚአብሔር።",
+                "translation": "የእግዚአብሔር ትእዛዙ ይህ ነውና።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወፈቃዱ።",
+                "translation": "ፈቃዱም ይህ ነውና።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ተቀድሶትክሙ፡ ውእቱ፡",
+                "translation": "ንጽሕና መያዛችሁ ነውና።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወከመ፡ ትትዓቀቡ፡ ወትርኀቁ፡ እምዝሙት።",
+                "translation": "ከዝሙት ትከለከሉ ዘንድ ነውና።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 4,
+          "verse_end": 4,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወያእምር፡ ኵሉ፡ ለለአሐዱ፡ ንዋዮ፡ ወያጥርዮ፡ በቅድሳት፡ ወክብር። (፩፡ ቆሮ፡ ፮፡ ፲፫ - ፲፭)",
+                "translation": "አንዱም አንዱም አባለ ዘሩን ዐውቆ በንጽሕና ገንዘብ ያድርግ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "",
+                "translation": "ዘበእንተ ንዋይየ፡ ተቀደሰት፡ ሊተ፡ እንዲል፡ (ሳሙ፡ ቀዳ፡ ፳፩፡ ፭)።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 5,
+          "verse_end": 5,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወኢትትመንሰዉ፡ በፍትወት፡ ከመ፡ አረሚ፡ እለ፡ ኢያእምርዎ፡ ለእግዚአብሔር፡ (ቈላ · ፫፡ ፭)።",
+                "translation": "እግዚአብሔርን እንደማያውቁት እንደ አረሚ በፈቲው ጾር ድል አትነሡ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወኢትትሐበሉ፡ ትግበሩ፡ ዘንተ።",
+                "translation": "ይህን ልትሠሩ አትውደዱ (ወይትሔበሉ) ይህን ሊ ሠ ሩ እንደሚ ወዱ እንደ አረሚ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 6,
+          "verse_end": 6,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወኢትትእበዩ።",
+                "translation": "አትታበዩ (ወይትኤበዩ) እንደሚ ታ በዩ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወኢትትእገሉ ቢጸክሙ በኵሉ",
+                "translation": "ወንድሞቻችሁን በሥራ ሁሉ አትቀሙ (ወይትኤገሉ) ወንድሞቻቸውን እንደሚቀሙ። አረሚ በፈቲው ጾር ድል አትነሡ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "እስመ፡ መስተበቅል፡ እግዚአብሔር፡ በእንተ፡ ዝንቱ፡ ኵሉ።",
+                "translation": "በዚህ ሁሉ እግዚአብሔር ፈታሒ ነውና።",
+                "andim": []
+              },
+              {
+                "clause_geez": "በከመ፡ አቅደምኩ፡ ነጊሮተክሙ።",
+                "translation": "አስቀድሜ በቆሮንቶስ",
+                "andim": []
+              },
+              {
+                "clause_geez": "ከመ ዓማፅያን ወዘማውያን ኢይወርሰዋ ለመንግሥተ እግዚአብሔር",
+                "translation": "ብዬ፡ እንደነገርኳችሁ ያንዱንስ ለአንዱ አያመጣም ብሎ በጥንተ ስብከት እንደነገርኋችሁ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወአስማዕኩ፡ ለክሙ።",
+                "translation": "እንደ አዳኘሁባችሁ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 7,
+          "verse_end": 7,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "እስመ፡ ኢጸውዐነ፡ እግዚአብሔር፡ ለርኩስ፡ ዘእንበለ፡ ለቅድሳት፡ (፪፡ ጢሞ፡ ፩ ፲ ፱ =",
+                "translation": "እግዚአብሔር ለንጽሕና እንጂ ለዝሙት አልጠራንምና።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 8,
+          "verse_end": 8,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወይእዜኒ፡ ዘክሕደሰ፡ አኮ፡ ለሰብእ፡ ዘይክሕድ።",
+                "translation": "አሁንም እኔን አሉ ያለ እኔን አሉ ያለ አይደለም።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ዘእንበለ፡ ለእግዚአብሔር፡ ዘወሀበክሙ፡ መንፈሰ፡ ቅዱሰ፡ (ሉቃ፡ ፲፡ ፲፮)",
+                "translation": "እግዚአብሔርን አሉ ያለ ነው እንጂ",
+                "andim": [
+                  "የኔን ሥርዓት ፈረሰ የኔን ሥርዓት ያፈረሰ አይደለም።"
+                ]
+              },
+              {
+                "clause_geez": "ዘእንበለ፡ ለእግዚአብሔር።",
+                "translation": "ልጅነትን የሰጠ የእግዚአብሔርን ሥርዓት ያፈረሰ ነው እንጂ",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወይእዜኒ፡ ዘከሀደ እኮ፡ ለሰብእ፡ ዘይክህድ፡",
+                "translation": "ክርስቶስን የካደ ዕሩቅ ብእሲን የካደ አይደለም ልጅነትን የሰጠ እግዚአብሔርን የካደ ነው እንጂ ልጅነትን የሰጠ ብሎ ለአብ ይቀጥላል።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 9,
+          "verse_end": 9,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወበእንተሰ፡ አፍቅሮ፡ ቢጽክሙ፡ ኢትፈቅዱ፡ ንጽሐፍ ለክሙ። (ማር ፲ ፲፪፡ ፴፩፡ ኤር፡ ፴፩፡ ፴፫፡ ፴፬)",
+                "translation": "የፍቅረ ቢጽንስ ነገር እንጽፍላችሁ ዘንድ አትሹም አትሹ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ለሊክሙ፡ ምሁራን፡ በኀበ፡ እግዚአብሔር፡ ከመ፡ ትትፋቀሩ፡ በበይናቲክሙ።",
+                "translation": "እርስ በርሳችሁ ፍቅርን ትይዙ ዘንድ ከእግዚአብሔር ተምራችሁ አውቃችኋልናኢትፈቅዱ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 10,
+          "verse_end": 10,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወከማሁ፡ ትግበሩ፡ ዓዲ፡ ምስለ፡ ኵሉ፡ አኃዊነ፡ እለ፡ በኵሉ፡ መቄዶንያ። (፩፡ ፯። )፡",
+                "translation": "ዳግመኛም በመቄዶንያ ካሉ ወንድሞቻችን ሁሉ ጋራ እንደዚሁ ትሠሩ ዘንድ ምሁራን ናችሁና ኢትፈቅዱ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወናስተበቍዐክሙ፡ አኃዊነ፡ ትብዝኁ፡ ወትፈድፍዱ። (ም ፬፡ ፩። )",
+                "translation": "ወንድሞቻችን ፍጹማን ትኾኑ ዘንድ ሁኑ ብለን እንማልዳችኋለን። የዋሃን ትኾኑ ዘንድ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 11,
+          "verse_end": 11,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ከመ፡ ትኩኑ፡ የዋሃነ።",
+                "translation": "የዋሃን ትሆኑ ዘንድ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወትትገበሩ፡ ተግባረክሙ ወትትቀነዩ፡ በእደዊክሙ (ተሰ፡ ፫፡ ፰፡ ፲፪፣ ም፡ ፪፡ ፱)",
+                "translation": "ተግባረ እድ ይዛችሁ ትመገቡ ዘንድ እንማልዳችኋለን። ተግባረ እድ ይዞ መመገብን የዋሃት አላት።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ዘከመ፡ አዘዝናክሙ። ለይትግበር፡ ወይጻሙ፡ በእዴሁ፡ በሠናይ፡ በዘይረድኦ፡ ለነዳይ፡",
+                "translation": "ብለን እንደነገርናችሁ። ያንዱንስ ለአንዱ አያመጣም ብሎ በጥንተ ስብከት እንደነገርናችሁ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 12,
+          "verse_end": 12,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ከመ፡ ትሑሩ፡ በኂሩት፡ በቅድመ፡ እለ፡ አፍኣ፡ (ሮሜ፡ ፲፫፡ ፲፫። )",
+                "translation": "ከምግባር ከሃይማኖት አፍአ ባሉ ሰዎች ፊት በበጐነት ትነሡ ዘንድ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወኢትጽሐቁ፡ ወኢኀበ፡ መኑሂ።",
+                "translation": "ከማንም ከማን ምግብ አትሹ። እንዳትሹ ተግባረ እድ ይዛችሁ እንድትመገቡ እንማልዳችኋለን።",
+                "andim": []
+              },
+              {
+                "clause_geez": "",
+                "translation": "ክፍል ፬",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 13,
+          "verse_end": 13,
+          "section_title": "ክፍል ፮ ፡ ዘከመ ኢይደሉ ኀዘን ዘቀቢጸ ተስፋ በእንተ እለ ሞቱ ። (ክፍል ፮ ፡ ስለ ሞቱ ሰዎች የቀቢጸ ተስፋ ኀዘን እንደማይገባ ።)",
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወንፈቅድ፡ ታእምሩ፡ አኃዊነ፡ በእንተ፡ እለ፡ ኖሙ፡ ከመ፡ ኢይደሉ፡ ትተክዙ፡ በላዕሌሆሙ፡ ከመ ኵሉ፡ ሰብእ፡ እለ፡ ቅቡጻን፡ ተስፋሆሙ። (፩፡ ቆሮ፡ ፲፭፡ ፰፡ ኤፌ፡ ፪ - ፲፪)",
+                "translation": "ወንድሞቻችን ስለሞቱ ሰዎች የቀቢጸ ተስፋ ኃዘን እንደሚያዝኑ እንደ አሕዛብ የቀቢጸ ተስፋ ኃዘን ታዝኑ ዘንድ እንዳይገባ ልታውቁ እንወዳለን።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 14,
+          "verse_end": 14,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወእምከመሰ፡ ንትአመን፡ ከመ፡ ሞተ፡ ክርስቶስ፡ ወተንሥአ።",
+                "translation": "ክርስቶስ እንደሞተ እንደተነሣ ካመነ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ከማሁ፡ ያነሥኦሙ፡ እግዚአብሔር፡ ለምውታን፡ በኢየሱስ። (ሮሜ ፲፡ ፲፬፡ ፱። ፩ቆሮ፡ ፲፭፡ ፫-፬)",
+                "translation": "በኢየሱስ ክርስቶስ በኩርነት እግዜአብሔር ሙታንን ያስነሣቸዋል እንዲያስነሣቸው እናውቃለንና ኢይደሉ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወያመጽኦሙ፡ ምስሌሁ፡",
+                "translation": "ከእሱ ጋራ አስከትሏቸው ይመጣል።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 15,
+          "verse_end": 15,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወዘንተ፡ ንነግረክሙ፡ በቃለ፡ እግዚአብሔር።",
+                "translation": "ይህንም ከእግዚአብሔር ታዝዘን እግዚአብሔር አዝዟችኋል ብለን እንነግራችኋለን።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ንሕነ፡ ሕያዋን፡ እለ፡ ንተርፍ፡ አመ፡ ምጽአተ፡ እግዚእነ፣ ኢንበጽሖሙ፡ ለምውታን። (፩፡ ቆሮ፡ ፲፭፥ ፳፫፥ ፶፩። )",
+                "translation": "ጌታችን ኢየሱስ ክርስቶስ በመጣ ጊዜ ሕያዋን ሆነን የምንኖር እኛ ሙታንን አንቀድማቸውም።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 16,
+          "verse_end": 16,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "እስመ፡ ይኤዝዝ፡ እግዚእነ፡ ምስለ፡ ቃለ፡ ሊቀ፡ መላእክት። (፩፡ ቆሮ፡ ፲፭፡ ፳፫፡ ፶፪)። ቅዱስ እግዚአብሔር ዘያነቅሖሙ ለምውታን",
+                "translation": "ተብሎ በቅዱስ ሚካኤል ቃል ከመመስገን ጋራ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወንፍሐተ፡ ቀርን፡ ዘእግዚአብሔር።፤ ንቃሕ መዋቲ ዘትነውም",
+                "translation": "ብሎ ዐዋጅ ከመንገር ጋራ ግብር እምግብር እንድንለወጥ ያዝዘናል።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ዘይወርድ፡ እምሰማይ።",
+                "translation": "ምድራዊ አዋጅ አለና ከዚያ ሲለይ «ዘይወርድ፡ እምሰማይ» አለ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወይትነሥኡ፡ ምውታን፡ መቅድመ፡ እለ፡ ሞቱ፡ በሃይማኖተ፡ ክርስቶስ።",
+                "translation": "በክርስቶስ አምነው የሞቱ ሰዎች አስቀድመው ይነሣሉ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 17,
+          "verse_end": 17,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወእምዝ፡ ንሕነ፡ ሕያዋን፡ እለ፡ ንተርፍ፡ ንትመሠዋ፡ በደመና ምስሌሆሙ፡ ኅቡረ።",
+                "translation": "ከዚህ በኋላ ሕያዋን ኾነን የምንኖር እኛ ከነሱ ጋራ አንድ ኾነን በክብር እናርጋለን።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ንትቀበሎ፡ ለእግዚእነ፡ ውስተ፡ አየር።",
+                "translation": "ጌታችንን በልዕልና እንዋሐደው ዘንድ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወንሄሉ፡ እንከ፡ ዘልፈ፡ ኀበ፡ እግዚእነ፣ (ራእ፡ ዮሐ ፲ ፲፩ ፲ ፲፬፣ ዮሐ ፲ ፲፪፡ ፳፮፥ ፲፯፡ ፳፬)",
+                "translation": "ከእርሱ ጋራ ተዋሕደን እንኖራለን።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 18,
+          "verse_end": 18,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወይእዜኒ፡ መሀሩ፡ ቢጸክሙ ዘንተ፡ ነገረ።",
+                "translation": "አሁንም ይህን ነገር ለወንድሞቻችሁ አስተምሩ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "verse_end": 1,
+          "section_title": "ክፍል ፯ ፡ በእንተ ነገረ ምጽአት ። (ክፍል ፯ ፡ የምጽአት ነገር እንደሚናገር ።)",
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወበእንተሰ፡ ዕድሜሁ ወዕለቱ፡ ወጊዜሁ፡ አኃዊነ፡ ኢትፈቅዱ ንጽሐፍ፡ ለክሙ፡ (ማቴ ፲፡ ፳፬፣ ፪፡ ፴፮)",
+                "translation": "የዘመ ኑን የዕለቱን፡ የሰዓቱን ነገር ግን ወንድሞቻችን እንጽፍላችሁ ዘንድ አትሹም አትሹ፡",
+                "andim": []
+              }
+            ],
+            "hateta": "ምነው ወርኁ ወርኅ መጋቢት ዘመኑ ዘመነ ዮሐንስ ዕለቱ ዕለተ እሑድ ጊዜው መንፈቀ ሌሊት እንደኾነ ታውቆ የለምን ሲሉ ዘመነ ዮሐንስ ብዙ ወርኀ መጋቢት ብዙ ዕለተ እሑድ አለ ከዚያ ተለይቶ ስላልታወቀ።",
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 2,
+          "verse_end": 2,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "",
+                "translation": "ለሊክሙ ተአምሩ ጥዩቀ፡ ከመ፡ ዕለተ፡ እግዚእነ፡ ከመ፡ ምጽአተ ሰራቂ፡ ሌሊተ። (ማቴ ፲ ፳፬፡ ፵፪፡ ፵፬፡ ፪፡ ጴጥ፡ ፫፡ ፴፡ ራእ፡ ፫፡ ፫ና፡ ፲፮፡ ፲፭) ጌታችን ኢየሱስ ክርስቶስ የሚመጣበት ዕለተ ምጽኣት እንደሌባ አመጣጥ ድንገት ሌሊት እንደኾነ ታውቃላችሁና።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ከማሁ ይከውን ምጽአቱ።",
+                "translation": "ሌባ ባላወቁት ሰዓት ባልጠረጠሩት ዕለት እንዲመጣ የጌታም አመጣጡ ድንገት እንደኾነ ታውቃላችሁ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 3,
+          "verse_end": 3,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "አመ፡ ይብሉ፡ እለ፡ ይክሕዱ፡ ኪያሁ፡ ከመ ውስተ፡ ዳኅን፡ ወሰላም፡ እሙንቱ፡ ወህየ፡ ግብተ፡ ይመጽኦሙ፡ ተሠርዎ። (ኤር ፱ ፮ ፲ ፲፬፡ ፰፡ ፲፩)።",
+                "translation": "እሱን የካዱ ሰዎች በወዲሁ አለን አለን ሲሉ ድንገት መነቀል ይመጣባቸዋል መተከልን መደብ አድርጎላቸው መነቀል ይመጣባቸዋል አለ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ከመ፡ ፅንስት፡ እንተ፡ ይመጽእ፡ ሕማም።",
+                "translation": "ምጥ እንደተያዘች ሴት።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወኢይክሉ፡ አምሥጦ።",
+                "translation": "ያች መዳን እንዳይቻላት እነሱም መዳን አይቻላቸውም።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 4,
+          "verse_end": 4,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወአንትሙሰ፡ አኃዊነ፡ ኢሀለውክሙ፡ ውስተ፡ ጽልመት፡ ከመ፡ ይርከብክሙ፡ ውእቱ፡ ዕለት፡ ከመ፡ ሰራቂ። (ኤፌ፡ ፭፡ ፰)",
+                "translation": "እናንተ ግን ወንድሞቻችን ዕለተ ሞት ዕለተ ምጽአት እንደሌባ አመጣጥ ድንገት ይደርስባችሁ ዘንድ ዐላዋቆች አይደላችሁም።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 5,
+          "verse_end": 5,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "እስመ፡ ኵልክሙ፡ ውሉደ፡ ብርሃን፡ አንትሙ፡ ወውሉደ፡ መዓልት። (ሮሜ፡ ፲፫፡ ፲፪፡ ኤፌ ፭፥፱)።",
+                "translation": "ሁላችሁም የዕውቀት የወንጌል ልጆች ናችሁና።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወኢኮንክሙ፡ ውሉደ፡ ሌሊት፡ ወኢውሉደ፡ ጽልመት።",
+                "translation": "የድንቁርና የኦሪት ልጆች አይደላችሁምና ኢሀለክሙ ውስተ ጽልመት።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 6,
+          "verse_end": 6,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወኢንኑም፡ እንከ፡ ከመ፡ እልኩ።",
+                "translation": "እንዲህም ከሆነ",
+                "andim": []
+              },
+              {
+                "clause_geez": "ውሉደ፡ ሌሊት፡ ውሉደ፡ ጽልመት",
+                "translation": "እንደተባሉ እንደ ኀምስ አብዳት የንዋመ ሐኬት እንቅልፍ አናንቀላፋ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "አላ ንንቃህ።",
+                "translation": "ውሉደ ብርሃን ውሉደ መዓልት እንደተባሉ እንደ ኀምስ ጠባባት ከንዋመ ሐኬት እንንቃ እንጂ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወንትጋህ፡ ወንጠበብ።",
+                "translation": "እንትጋ እንራቀቅ አንጂ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 7,
+          "verse_end": 7,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "እስመ፡ እለ፡ ይነውሙ፡ ሌሊተ፡ ይነውሙ።",
+                "translation": "የንዋመ፡ ሐኬት",
+                "andim": []
+              },
+              {
+                "clause_geez": "",
+                "translation": "እንቅልፍ የሚያንቀላፉ ሰዎች በኦሪት ሳሉ ነውና።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወእለሂ፡ ይሰክሩ፡ ሌሊተ፡ ይሰክሩ።",
+                "translation": "በኃጢአት አረቂ የሚሰክሩ ሰዎችም በድንቁርና ሳሉ ነውና።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 8,
+          "verse_end": 8,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወንሕነሰ፡ እንዘ፡ ውሉደ፡ መዓልት፡ ንሕነ፡ ንንቃሕ። (ሮሜ ፲ ፲፫፡ ፲፪ “)",
+                "translation": "እኛ ግን የዕውቀት የወንጌል ልጆች ነንና ከንዋመ ሐኬት እንንቃ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወንልበስ፡ ልብሰ፡ ኀጺን፡ ዘሃይማኖት፡ ወዘተፋቅሮ።",
+                "translation": "ልብሰ ኀጺን ግሥ ነው። ሃይማኖትን ፍቅርን ገንዘብ እናድርግ።",
+                "andim": [
+                  "ሰምና ወርቅ።"
+                ]
+              },
+              {
+                "clause_geez": "ልብሰ፡ ኀፂን፡",
+                "translation": "ምግባር፡ ሃይማኖትን፡ ገንዘብ፡ እናድርግ",
+                "andim": []
+              },
+              {
+                "clause_geez": "ልብሰ፡ ኀጺን",
+                "translation": "ጥሩር፡ እንልበስ «ዘሃይማኖት፡» ሲል",
+                "andim": []
+              },
+              {
+                "clause_geez": "ዘውእቱ፡ ሃይማኖት።",
+                "translation": "ይኸውም ሃይማኖት ምግባር ነው።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወንትቀጸል፡ ጌራ፡ ተስፋ፡ መድኃኒት (ኢሳ፡ ፶፱ - ፲፯፡ ኤፌ ፬፤ ፲፬፡ ፳፯)",
+                "translation": "ቦርቦርቴ እንድፋ (አለ) ተስፋ ትንሣኤ እንያዝ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 9,
+          "verse_end": 9,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "እስመ፡ ኢረሰየነ፡ እግዚአብሔር፡ ለመንሱት።",
+                "translation": "እግዚአብሔር ጥንቱን ለሞት አልፈጠረንምና።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ዘእንበለ፡ ለሕይወት፡ ወለመድኃኒት፡ በእግዚእነ ኢየሱስ ክርስቶስ።",
+                "translation": "በጌታችን በኢየሱስ ክርስቶስ ቃልነት ለሕይወት ፈጥሮናል እንጂ",
+                "andim": []
+              },
+              {
+                "clause_geez": "ኢረስየነ ዘሞተ፡ ለነ",
+                "translation": "ማንሻ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 10,
+          "verse_end": 10,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ዘሞተ ለነ፡ ቤዛነ (ሮሜ ፲ ፲፬፡ ፰፡ ፱)",
+                "translation": "ለእኛ ቤዛ ሆኖ በሞተ በኢየሱስ ክርስቶስ በኵርነት እንድንነሣ አድርጎናል እንጂ ፈርሰን በስብሰን እንድንቀር አላደረገንምና።",
+                "andim": []
+              },
+              {
+                "clause_geez": "እመኒ፡ ንቁሐን ንሕነ፤ ንሕነ፡ ሕያዋን",
+                "translation": "አለ፡ ንተርፍ፡ ያለንም፡ ብንሆን።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወእመኒ፡ ንውማን፤ ምስሌሁ፡ ነሐዩ፡ ኵልነ (ም ፲ ፱፡ ፲፬)። ኢንበጽሖሙ፡ ለምውታን",
+                "translation": "ያለንም ብንሆን ሁላችንም ከእሱ ጋራ ተዋሕዶ ለመኖር እንደሱ እንነሣለን።",
+                "andim": []
+              },
+              {
+                "clause_geez": "",
+                "translation": "ክፍል፡ ፭፡",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 11,
+          "verse_end": 11,
+          "section_title": "ክፍል ፰ ፡ ዘከመ ይደሉ ጸልዮ ለአኀው ። (ክፍል ፰ ፡ ለወንድሞቻችን መጸለይ ስለሚገባ ።)",
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወይእዜኒ፡ አስተፍሥሑ፡ ቢጸክሙ፡ በእንተዝ።",
+                "translation": "አሁንም ስለዚህ ወንድሞቻችሁን አስተምሩ",
+                "andim": [
+                  "ለወንድሞቻችሁ ይህን ነግራችሁ ደስ አሰኙ።"
+                ]
+              },
+              {
+                "clause_geez": "ወይሕንጽ፡ ፩፡ ካልኦ።",
+                "translation": "አንዱ አንዱን ሕንጻ እግዚአብሔር ያድርግ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ዘከመ፡ ትገብሩ፡ ዓዲ፡ (ዕብ፡ ፲፡ ፳፬ ፳፭)።",
+                "translation": "እናንተ እንደምትሠሩ።",
+                "andim": [
+                  "(ዓዲ፡ ይሕንጽ፡ ካልእ፡) ዳግመኛ አንዱ አንዱን ሕንጻ እግዚአብሔር ያድርግ።"
+                ]
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 12,
+          "verse_end": 12,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወናስተበቍዓክሙ፡ አኃዊነ፡ ዑቅዎሙ፡ ለእለ፡ ይጻምዉ፡ በውስቴትክሙ፡ (፩ ቆሮ፡ ፲፯፥ ፲፰)።",
+                "translation": "ወንድሞቻችን እናንተን በማስተማር የሚደክሙ መምሀራንን ዘመድ ዘመድ በሏቸው ብለን እንማልዳችኋለን።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወለእለ፡ ይቀውሙ፡ ለክሙ፡ በእንተ፡ እግዚእነ፡ ወይሜህሩክሙ።",
+                "translation": "ጸንተው የጌታችንን የኢየሱስ ክርስቶስን ነገር የሚያስተምሩ መምህራንን ዘመድ ዘመድ በሏቸው።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 13,
+          "verse_end": 13,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "አክብርዎሙ ፈድፋደ።",
+                "translation": "እርዷቸው።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወአፍቅርዎሙ፡ በእንተ ምግባሮሙ።",
+                "translation": "ምሰሏቸው በበጎ ሥራቸውም።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወተአምንዎሙ።",
+                "translation": "አክብሯቸው።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 14,
+          "verse_end": 14,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወናስተበቍዓክሙ፡ እኃዊነ፡ ገሥጽዎሙ፡ ለዝሉፋን።",
+                "translation": "መስክ አሾችን ገስጿቸው ብለን እንማልዳችኋለን ተግሣጹ አንድ እንጀራ በበሉ ግማሽ ግማሽ ቢበሉ ኩርማን መስጠት ነው።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ናዝዝዎሙ ለኅዙናን።",
+                "translation": "ኀዙናንን ደስ አሰኙዋቸው።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ጹርዎሙ፡ ለድኩማን (፡ ተሰ ፫፡ ፲፭።",
+                "translation": "ድኩማንን አጽኗቸው።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወተዓገሡ፡ ላዕለ፡ ኵሉ።",
+                "translation": "ሁሉን ታገሡ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 15,
+          "verse_end": 15,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "",
+                "translation": "ዑቁ ኢትግበሩ እኩየ፡ ህየንተ፡ እኪት (ምዕ ፳ ፳፪፡ ሮሜ፡ ፲፪፡ ፲፯፡ ፳። ፪ጴጥ፡ ፰) የበደላችሁን እንደበደለን እንበድለው አትበሉ። እንዳትሉ ዕወቁ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "አላ ተባደሩ፡ ዘልፈ ሰናይ በበይናቲክሙ።",
+                "translation": "እርስ በርሳችሁ ለበጎው ነገር ተቀዳደሙ እንጂ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወለኵሉሂ። በበይናቲክሙ",
+                "translation": "ብሎ ነበርና ለሌላውም ሁሉ በበጎ ነገር ተቀዳደሙ እንጂ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 16,
+          "verse_end": 16,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ተፈሥሑ፡ በኵሉ፡ ጊዜ፡",
+                "translation": "ሁልጊዜ በሥራችሁ ደስ ይበላችሁ",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወጸልዩ፡ ወትረ። (ሉቃ፡ ፲፰፡ ፩፣ ሮሜ ፲፪፡ ፲፪። ቆላ ፬፡ ፪)።",
+                "translation": "ሁል ጊዜ ጸልዪ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 17,
+          "verse_end": 17,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "አዕኵትዎ ለእግዚአብሔር፡ በእንተ፡ ኵሉ ግብር፣",
+                "translation": "ስለተደረገላችሁ ነገር ሁሉ እግዚአብሔርን አመስግኑ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 18,
+          "verse_end": 18,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "እስመ፡ ዝውእቱ ፈቃዱ፡ ለእግዚአብሔር በእንቲአክሙ።",
+                "translation": "ከእናንተ ዘንድ እግዚአብሔር የሚሻው ይህ ነውና (አለ) መመስገንን ነውና።",
+                "andim": []
+              },
+              {
+                "clause_geez": "በኢየሱስ ክርስቶስ። (አዕኵትዎ ለእግዚአብሔር አብ፡ በእንተ ኵሉ ግብር በኢየሱስ ክርስቶስ",
+                "translation": "በኢየሱስ ክርስቶስ ስለተደረገላችሁ ነገር ሁሉ እግዚአብሔርን አመስግኑ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 19,
+          "verse_end": 19,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "መንፈስ፡ ኢታጥፍኡ፡ (፩ ቆሮ፡ ፲፬፡ ፴፱)",
+                "translation": "ልቡናችሁን አታባክኑ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 20,
+          "verse_end": 20,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወተነብዮ፡ ኢትመንኑ፡ (፩፡ ቆሮ ፲ ፲፬፡ ፩፡)",
+                "translation": "ትርጓሜ አትናቁ",
+                "andim": []
+              },
+              {
+                "clause_geez": "(መንፈስ፡ ኢታጥፍዑ",
+                "translation": "አድሮባችሁ ያለ መንፈስ፡ ቅዱስን የማይገባ ሥራ ሠርታችሁ እንዲለያችሁ አታድርጉ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወተነብዮ፡ ኢትመንኑ።",
+                "translation": "መጻእያትን ዐውቆ መናገርንም አትናቁ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 21,
+          "verse_end": 21,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወኵሎ፡ አመክሩ።",
+                "translation": "ሁሉንም መርምሩ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወዘሠናየ፡ አጽንዑ፡ (ሮሜ ፬፡ ፲፰፡ ፩፡ ዮሐ ፬፥ ፩። )",
+                "translation": "የክፉውን ትታችሁ የበጎውን ያዙ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 22,
+          "verse_end": 22,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወተገኀሡ፡ አምኵሉ፡ ምግባር፡ እኩይ፡",
+                "translation": "ከክፉው ሥራ ሁሉ ተለዩ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 23,
+          "verse_end": 23,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወእግዚአብሔር፡ አምላከ፡ ሰላም፡ ይቀድስክሙ፡ ፍጹመ፡ (ሮሜ ፲፭ ፴፫)",
+                "translation": "የፍቅር የአንድነት ባለቤት እግዚአብሔር በፍጹም ክብር ያከብራችሁ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወያጥዒክሙ፡ ነፍሰክሙ፡ ወመንፈሰክሙ፡ ወሥጋክሙ።",
+                "translation": "በሥጋ በነፍስ በደመ ነፍስ ሕያዋን ያደርጋችሁ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "በንጽሕ፡ እስከ፡ ምጽአተ፡ እግዚእነ፡ ኢየሱስ፡ ክርስቶስ፤ (ይቀድስክሙ፡ በንጽሕ",
+                "translation": "ብለህ፡ ግጠም) ጌታችን እስከሚመጣባት እስከ ዕለተ ምጽአት በንጽሕና እንድትጸኑ ያድርጋችሁ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 24,
+          "verse_end": 24,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ወዘጸውዐክሙ፡ ጻድቅ፡ ውእቱ፡ ይግበር፡ ለክሙ።",
+                "translation": "በሃይማኖት የጠራችሁ እርሱ ቸር የባሕርይ አምላከ ነውና።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ይግበር፡ ለክሙ።",
+                "translation": "ይህን ያደርግላችሁ",
+                "andim": [
+                  "ይህን ያደርግላችሁ ዘንድ ቸር የባሕርይ አምላክ ነው።"
+                ]
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 25,
+          "verse_end": 25,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ኦ አኃዊነ፡ ጸልዩ፡ ለነ።",
+                "translation": "ወንድሞቻችን ጸልዩልን።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 26,
+          "verse_end": 26,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "አምኁ፡ ኵሎ፡ አኃዊነ፡ በአምኃ፡ ቅድሳት፡ (ሮሜ ፲፮፡ ፲፯። )",
+                "translation": "ከኤሳው ከይሁዳ ከዲያብሎስ በተለየ ሰላምታ ወንድሞቻችን ሁሉ ቸር አላችሁን በሉ።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 27,
+          "verse_end": 27,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "አምሕለክሙ፡ በእግዚእነ፡ ታንብብዋ፡ ለዛቲ፡ መጽሐፍ ላዕለ፡ ኵሎሙ፡ አኀዊነ ቅዱሳን።",
+                "translation": "ይህችን ክታብ ለምእመናን በጉባኤ ታሰሟት ዘንድ አማጽናችኋለው ከግዝት መሐላ ይቀላል ብሎ",
+                "andim": []
+              },
+              {
+                "clause_geez": "አምሕለክሙ",
+                "translation": "አለ፡ ከግዝትም መሐላ እንዲቀል በዚህ ይታወቃል።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        },
+        {
+          "verse": 28,
+          "verse_end": 28,
+          "section_title": null,
+          "source_page": null,
+          "commentary": {
+            "clauses": [
+              {
+                "clause_geez": "ጸጋሁ፡ ለእግዚእነ፡ ኢየሱስ፡ ክርስቶስ፡ ምስሌክሙ። (ሮሜ ፲፮፡ ፳፬፤ ፊል፡ ፬፡ ፳፫። )",
+                "translation": "የጌታችን የኢየሱስ ክርስቶስ ጸጋው አድሮባችሁ ይኑር። አሜን። (ሮሜ ፲፮ ፳፡ ፷፬ ፊል፡ ፬፡ ፳፫) በእውነት።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ተፈጸመ መልእክት፡ ቀዳማዊ፡ ኀበ፡ ሰብአ፡ ተሰሎንቄ፡ ወተጽሕፈ፡ በአቴና፡ ወተፈነወ፡ ምስለ፡ ጢሞቴዎስ፡ ወስልዋኖስ፡",
+                "translation": "በአቴና የተጻፈ በጢሞቴዎስና በስልዋኖስ እጅ ከጳውሎስ በተሰሎንቄ ላሉ ሰዎች የተላከ ክታብ ደረሰ ተፈጸመ።",
+                "andim": []
+              },
+              {
+                "clause_geez": "ወስብሐት ለእግዚአብሔር።",
+                "translation": "አነሣሥቶ ላስጀመረን አስጀምሮ ላስጨረሰን ጌታ ክብር ምስጋና ይግባው።",
+                "andim": []
+              }
+            ],
+            "hateta": null,
+            "cross_references": []
+          }
+        }
+      ]
+    }
+  ]
+}
