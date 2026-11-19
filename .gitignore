@@ -8,3 +8,9 @@ __pycache__/
 *_private.pem
 *private*.pem
 ai_config.json
+
+# Files that embed a live provider API key - never commit
+AI_CONFIG_README.md
+ai_client.py
+ai_client.js
+.vscode/settings.json

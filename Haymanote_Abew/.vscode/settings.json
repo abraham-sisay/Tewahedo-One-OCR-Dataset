@@ -1,8 +1,0 @@
-{
-  "terminal.integrated.env.windows": {
-    "ANTHROPIC_API_KEY": "sk-ice-93j0ib5etqf32a4qwjh09vx7ruap0yp9ghim0p54j8906x8k",
-    "ANTHROPIC_BASE_URL": "https://api.iceyyy.dev/",
-    "OPENAI_API_KEY": "sk-ice-93j0ib5etqf32a4qwjh09vx7ruap0yp9ghim0p54j8906x8k",
-    "OPENAI_BASE_URL": "https://api.iceyyy.dev/v1"
-  }
-}
